@@ -1,2 +1,2 @@
 # Configuring Parasoft
-![Image](Parasoft/Image.png)
+![Image](/Image.png)
