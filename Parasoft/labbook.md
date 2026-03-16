@@ -1,2 +1,3 @@
 # Configuring Parasoft
-![yo](Images/image.png)
+
+# Fixing The Severity 
