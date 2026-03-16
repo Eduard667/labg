@@ -145,6 +145,9 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Utility.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="labbook.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
