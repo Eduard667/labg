@@ -1,2 +1,2 @@
 # Configuring Parasoft
-!Image
+!Imagehere(Images/Image.png)
